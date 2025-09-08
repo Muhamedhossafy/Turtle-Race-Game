@@ -11,15 +11,12 @@
 ## 🎮 Game Preview
 
 ### 🏁 Race Start
-![Race Start](https://via.placeholder.com/600x400/000000/FFFFFF/?text=Turtle+Race+Start)
 *Three colored turtles at the starting line ready to race*
 
 ### 🏆 Winner Announcement
-![Winner Screen](https://via.placeholder.com/600x400/006400/FFFFFF/?text=You+Win!)
 *Green victory screen when player guesses correctly*
 
 ### 😞 Loss Screen
-![Loss Screen](https://via.placeholder.com/600x400/C71585/FFFFFF/?text=You+Lose!)
 *Pink loss screen when player's turtle doesn't win*
 
 ## 📁 Project Structure
@@ -28,7 +25,6 @@
 turtle-race-game/
 ├── turtle_race.py      # Main game file
 ├── README.md           # Project documentation
-└── requirements.txt    # Python dependencies
 ```
 
 ## 🛠️ Technologies Used
@@ -98,8 +94,8 @@ Possible enhancements:
 This project is open source and available under the [MIT License](LICENSE).
 
 ## 📧 Contact
-
-If you have any questions or suggestions, feel free to reach out!
+- ✉️ **Email**: [muhamad.ammar09001@gmail.com](mailto:muhamad.ammar09001@gmail.com)  
+- 🔗 **LinkedIn**: [Muhamad Ammar](https://www.linkedin.com/in/muhamad-ammar-18b427306)
 
 ---
 
